@@ -6,6 +6,8 @@ TagManager:
   tags:
   - ground
   - capsuleCollider
+  - door
+  - Door
   layers:
   - Default
   - TransparentFX
